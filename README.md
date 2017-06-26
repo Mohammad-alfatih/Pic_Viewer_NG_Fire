@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PicViewerNGFire
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
@@ -30,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Pic_Viewer_NG_Fire
 Picture viewing web app with Firebase authentication and database.
->>>>>>> 347385c4683eddd5ba107563b34b93d2616e8d50
+
