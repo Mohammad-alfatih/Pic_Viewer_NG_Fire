@@ -8,4 +8,10 @@ import { ReviewComponent } from './components/review/review.component';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {}
+export class AppComponent {
+  public rootPage: any;
+
+  constructor() {
+      this.rootPage = PictureComponent;
+    }
+}
