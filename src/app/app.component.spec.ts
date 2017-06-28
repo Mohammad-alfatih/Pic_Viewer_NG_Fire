@@ -8,7 +8,6 @@ import { ReviewComponent } from './components/review/review.component';
 
 let fixture: ComponentFixture<AppComponent>;
 let component: AppComponent;
-let de: DebugElement;
 
 describe('AppComponent', () => {
   beforeEach(async(() => {
